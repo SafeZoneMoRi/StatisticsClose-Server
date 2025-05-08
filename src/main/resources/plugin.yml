@@ -1,0 +1,6 @@
+name: StatisticsClose
+version: '1.0-SNAPSHOT'
+main: io.morningmc.plugin.statisticsClose.StatisticsClose
+api-version: '1.21'
+description: Developed by SafeZoneMoRi
+website: https://discord.gg/j8sHeM92Fx
